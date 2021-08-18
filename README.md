@@ -8,7 +8,7 @@ Steps:
 4. Fine-tuned the model on the real images
 
 <p float="left">
-  <img src="https://github.com/Tylersuard/Synthetic_Data_Object_Detection/blob/main/synthetic_forks/rgb_28_png.rf.d80091fe707b3a526dd3ab435eec7155.jpg" width=25% height=25%>
+  <img src="https://github.com/Tylersuard/Synthetic_Data_Object_Detection/blob/main/synthetic_forks/rgb_28_png.rf.d80091fe707b3a526dd3ab435eec7155.jpg" width=55% height=55%>
   <img src="https://github.com/Tylersuard/Synthetic_Data_Object_Detection/blob/main/realforks/IMG_5327.JPEG" width=25% height=25%>
 </p>
 
