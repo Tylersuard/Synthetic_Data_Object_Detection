@@ -6,3 +6,5 @@ Steps:
 2. Took ~800 real images of a fork
 3. Trained a computer vision model using the 400,000 synthetic images
 4. Fine-tuned the model on the real images
+
+![synthetic fork image](https://github.com/Tylersuard/Synthetic_Data_Object_Detection/blob/main/realforks/IMG_5319.JPEG?raw=true)
