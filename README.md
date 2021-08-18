@@ -7,4 +7,4 @@ Steps:
 3. Trained a computer vision model using the 400,000 synthetic images
 4. Fine-tuned the model on the real images
 
-![synthetic fork image](https://github.com/Tylersuard/Synthetic_Data_Object_Detection/blob/main/synthetic_forks/rgb_18_png.rf.842a9e5c367679ba9136a29f7eaacdbc.jpg?raw=true | width =100)
+![synthetic fork image](https://github.com/Tylersuard/Synthetic_Data_Object_Detection/blob/main/synthetic_forks/rgb_18_png.rf.842a9e5c367679ba9136a29f7eaacdbc.jpg | width=100)
